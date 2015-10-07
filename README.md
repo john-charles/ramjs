@@ -1,4 +1,4 @@
-# My Node Application
+# RamJS
 
 ## Install
 
