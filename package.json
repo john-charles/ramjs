@@ -1,0 +1,21 @@
+{
+  "name": "ramjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Mac Heller-Ogden",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-sequence": "^0.4.1",
+    "rewire": "2.3.4"
+  }
+}
