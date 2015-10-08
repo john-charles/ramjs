@@ -1,6 +1,6 @@
 {
   "name": "ramjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a promise retry implementation",
   "main": "lib/index.js",
   "author": "Mac Heller-Ogden",
